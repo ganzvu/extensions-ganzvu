@@ -1,12 +1,12 @@
 {
   "eu.kanade.tachiyomi.extension.vi.truyenqq": {
     "apk": {
-      "name": "tachiyomi-vi.truyenqq-v1.6.28.apk",
-      "sha256": "571737a66c9d6fabcadf686b36b32f9ff13960b54176b0ba1cc944336c77de6f"
+      "name": "tachiyomi-vi.truyenqq-v1.6.29.apk",
+      "sha256": "b5c90dbb1f09eac9123dd3948eab7c94afa364151cccbc0af735cc15158fc50b"
     },
     "jar": {
-      "name": "tachiyomi-vi.truyenqq-v1.6.28.jar",
-      "sha256": "20c291de0b00c3eaf3ba2e6e92a9a7d2ace0b8a3fc79fe37d708509e0012db55"
+      "name": "tachiyomi-vi.truyenqq-v1.6.29.jar",
+      "sha256": "685d22c51801204ed12530c9ae5dd23d5a6af216a9b1eeddcc1fd7ccdc110580"
     }
   }
 }

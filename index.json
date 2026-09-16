@@ -11,13 +11,13 @@
         "name": "TruyenQQ",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
         "resources": {
-          "apkUrl": "https://github.com/ganzvu/extensions-ganzvu/releases/download/truyenqq-v1.6.29/tachiyomi-vi.truyenqq-v1.6.29.apk",
-          "iconUrl": "https://raw.githubusercontent.com/ganzvu/extensions-source/711836481b1ce3213058424063d61f84b43de8f1/src/vi/truyenqq/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ganzvu/extensions-ganzvu/releases/download/truyenqq-v1.6.29/tachiyomi-vi.truyenqq-v1.6.29.jar"
+          "apkUrl": "https://github.com/ganzvu/extensions-ganzvu/releases/download/truyenqq-v1.6.30/tachiyomi-vi.truyenqq-v1.6.30.apk",
+          "iconUrl": "https://raw.githubusercontent.com/ganzvu/extensions-source/72d5692fc3da8c3b8fa9e448e61316bdf6475921/src/vi/truyenqq/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/ganzvu/extensions-ganzvu/releases/download/truyenqq-v1.6.30/tachiyomi-vi.truyenqq-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106030",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
